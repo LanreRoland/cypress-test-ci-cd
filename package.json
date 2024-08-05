@@ -1,0 +1,10 @@
+{
+  "name": "cypress-test-ci-cd",
+  "version": "1.0.0",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
